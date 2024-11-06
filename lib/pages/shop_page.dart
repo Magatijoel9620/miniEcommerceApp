@@ -30,7 +30,7 @@ class ShopPage extends StatelessWidget {
         ],
       ),
       drawer: const MyDrawer(),
-      backgroundColor: Theme.of(context).colorScheme.background,
+      backgroundColor: Theme.of(context).colorScheme.surface,
       body: ListView(
         children: [
           const SizedBox(height: 25),
