@@ -28,6 +28,29 @@ class Shop extends ChangeNotifier {
         price: 99.99,
         description: "Luxurious beef. With satisfying flavor that is satisfying yet delicate, complemented by an unusually smooth texture and tenderness.",
         imagePath: 'assets/snowman.jpg'),
+    Product(
+        name: "Pasta",
+        price: 99.99,
+        description: "Get spicy penne pasta. A classic traditional Italian cooking.",
+        imagePath: 'assets/santa.jpg'),
+    //product 2
+    Product(
+        name: "Filet ",
+        price: 99.99,
+        description: "Luxurious beef. With satisfying flavor that is satisfying yet delicate, complemented by an unusually smooth texture and tenderness.",
+        imagePath: 'assets/snowman.jpg'),
+    //product 3
+    Product(
+        name: "Penne_Pasta",
+        price: 99.99,
+        description: "Get spicy penne pasta. A classic traditional Italian cooking.",
+        imagePath: 'assets/santa.jpg'),
+    //product 4
+    Product(
+        name: "Filet_Mignon",
+        price: 99.99,
+        description: "Luxurious beef. With satisfying flavor that is satisfying yet delicate, complemented by an unusually smooth texture and tenderness.",
+        imagePath: 'assets/snowman.jpg'),
         //To do: more products
   ];
  
